@@ -34,7 +34,7 @@ int main(int argc,char** argv){
 
     int t; cin >> t;
     while (t--){
-    	int n, m; cin >> n >> m;
+    	int n, m; cin >> n >;
         vector<int> a(n); 
         for (int i = 0; i < n; i++)
            cin >> a[i];
